@@ -18,3 +18,13 @@ The stop and wait protocol is a flow control protocol where flow control is one 
 6. The timeout countdown is reset after each frame transmission.<br>
 7. The above behavior is a basic example of Stop-and-Wait. <br>
 8. However, real-life implementations vary to address certain issues of design.<br>
+
+# output:
+
+![image](https://user-images.githubusercontent.com/70971734/155243756-33a2e916-a33f-4d7f-af2b-0d7d2917d813.png)
+
+SENDER CLASS
+
+![image](https://user-images.githubusercontent.com/70971734/155243799-d87ac525-777f-40f0-9b85-44b47be340d4.png)
+
+RECEIVER CLASS

@@ -3,8 +3,7 @@ The stop and wait protocol is a flow control protocol where flow control is one 
 
 # Detail
 
-The frame is sent one-by-one to the Receiver(Server) from the Sender(Client) side.
-Acknowledgment is sent from Server to the Client
-The next frame is sent after receiving the acknowledgment from the server-side.
-This technique/method is known to be 
-STOP-and-WAIT Protocol.
+> The frame is sent one-by-one to the Receiver(Server) from the Sender(Client) side.<br>
+> Acknowledgment is sent from Server to the Client.<br>
+> The next frame is sent after receiving the acknowledgment from the server-side.<br>
+>This technique/method is known to be STOP-and-WAIT Protocol.

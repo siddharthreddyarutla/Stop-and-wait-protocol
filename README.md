@@ -21,10 +21,11 @@ The stop and wait protocol is a flow control protocol where flow control is one 
 
 # output:
 
+SENDER CLASS
+
 ![image](https://user-images.githubusercontent.com/70971734/155243756-33a2e916-a33f-4d7f-af2b-0d7d2917d813.png)
 
-SENDER CLASS
+RECEIVER CLASS
 
 ![image](https://user-images.githubusercontent.com/70971734/155243799-d87ac525-777f-40f0-9b85-44b47be340d4.png)
 
-RECEIVER CLASS
